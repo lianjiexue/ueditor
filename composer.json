@@ -12,5 +12,7 @@
             "email": "1711861430@qq.com"
         }
     ],
+    "license": "MIT",
+    "minimum-stability": "dev",
     "require": {}
 }
