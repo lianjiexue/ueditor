@@ -1,0 +1,16 @@
+{
+    "name": "lianjiexue/ueditor",
+    "description": "基于百度ueditor的后端处理",
+    "autoload": {
+        "psr-4": {
+            "Lianjiexue\\Ueditor\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lianjiexue",
+            "email": "1711861430@qq.com"
+        }
+    ],
+    "require": {}
+}
